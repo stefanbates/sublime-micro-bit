@@ -1,3 +1,3 @@
 {
-	"cmd": ["python", "${packages}/Microbit/microbit.py", "$file" ]
+	"cmd": ["python", "${packages}/microbit\ Build \ System/microbit.py", "$file" ]
 }
